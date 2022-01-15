@@ -1,2 +1,2 @@
 # algo_trading
-tick data exercise
+ticks data exercise
